@@ -1,0 +1,30 @@
+body {
+	background-color:#D1F2EB  ;
+}
+
+div p{
+	font-weight:bold;
+
+}
+body p{
+	color:#7B7D7D;
+}
+div{
+	float: left;
+}
+
+h3{
+	text-align:left;
+}
+.boxed{
+	float:left;
+	font-weight: bold;
+	width: 10%;
+}
+
+.box-stuff {
+	float: right;
+	border-left: 3px solid #BFC9CA;
+	padding-left: 30px;
+	width: 90%;
+}
